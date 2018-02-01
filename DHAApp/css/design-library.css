@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ------ Font CSS Start ------ */
+h1,h2,h3,h4,p,.label-1,label-2,.caption-1{font-weight:normal; -webkit-font-smoothing: antialiased;}
+h1{ font-size:48px; line-height:58px;}
+h2{ font-size:40px; line-height:48px;}
+h3{ font-size:32px; line-height:38px;}
+h4{ font-size:24px; line-height:29px;}
+p{ font-size:18px; line-height:26px;}
+.label-1{ font-size:20px; line-height:24px;}
+.label-2{ font-size:16px; line-height:19px;}
+.caption-1{ font-size:14px; line-height:17px;}
+/* ------ Font CSS Start ------ */
+/* ------ Font Color CSS Start ------ */
+.emphasis{ color:#2b2b2b;}
+.normal{ color:#2b2b2b;}
+.medium{ color:#595959;}
+.light{ color:#BEBEBE;}
+.white{ color:#FFFFFF;}
+.accent-2{ color:#008D96;}
+.primary{ color:#82BC00;}
+.secondary{ color:#008D96;}
+.tertiary{ color:#FF00D5;}
+.information{ color:#1DB6C9;}
+.success{ color:#1DB96F;}
+.warning{ color:#F29E47;}
+.alert{ color:#DE4249;}
+.link{ color:#1DB6C9; text-decoration:underline;}
+/* ------ Font Color CSS Start ------ */
+/* ------ Background Color CSS Start ------ */
+.page-bg{ background-color:#F1F5F6;}
+.bg-white{background-color:#FFFFFF;}
+.bg-blue{background-color:#008D96;}
+.bg-dark-grey{background-color:#2B2B2B;}
+/* ------ Background Color CSS Start ------ */
+/* ------ Button CSS Start ------ */
+a.btn, input.btn, button.btn{ display:inline-block; vertical-align:middle; white-space:nowrap; color:#FFFFFF; cursor:pointer; text-align:center; touch-action:manipulation; background-image:none; font-weight:400; float:left;}
+.btn-primary{ box-sizing:border-box; border-radius:12px; background:#83BA23; box-shadow:0 8px 16px 4px rgba(169,206,95,0.16); line-height:24px;}
+.btn-primary:hover, .btn-primary .active{ background-color:#83BA23; box-shadow:0 8px 16px 4px rgba(131,186,35,0.32);
+-webkit-transition-delay: .3s ease-in-out; -moz-transition-delay: .3s ease-in-out; -ms-transition-delay: .3s ease-in-out; -o-transition-delay: .2s; transition-delay: .3s ease-in-out;}
+
+.outline-lg{ color:#008D96; box-sizing:border-box; border-radius:12px; border:2px solid #008D96; line-height:24px;}
+.outline-lg:hover, .outline-lg .active{ color:#FFFFFF; background-color:#008D96;}
+
+.outline-sm{ color:#008D96; box-sizing:border-box; border-radius:12px; border:1px solid #008D96;}
+.outline-sm:hover, .outline-sm .active{ color:#FFFFFF; background-color:#008D96;}
+
+.outline-white-lg{ color:#FFFFFF; box-sizing: border-box; border-radius:12px; border:2px solid #FFFFFF; line-height:24px; padding:16px 64px;}
+.outline-white-lg:hover, .outline-white-lg .active{ color:#FFFFFF; border:4px solid #FFFFFF; padding:16px 64px;}
+
+.outline-white-sm{ color:#FFFFFF; box-sizing:border-box; border-radius:12px; border:1px solid #FFFFFF; padding:8px 40px; line-height:18px;}
+.outline-white-sm:hover, .outline-white-sm .active{ color:#FFFFFF; border:2px solid #FFFFFF; padding:7px 39px;}
+
+.btn-disabled{ cursor:not-allowed!important; box-shadow:none!important; opacity:0.5!important;}
+
+.btn-lg{ padding:16px 70px; font-size:20px;}
+.btn-md{ padding:12px 54px; font-size:18px;}
+.btn-sm{ padding:10px 18px; font-size:16px;}
+.btn-xs{ padding:7px 10px; font-size:14px;}
+.btn-fix{ width:200px; padding-left:0px; padding-right:0px; text-align:center;}
+
+.but-success{ background-color:#4CAF50;}
+.but-success:hover{ background-color:#46a049;}
+
+.but-info{ background-color:#2196F3;}
+.but-info:hover{ background-color:#0b7dda;}
+
+.but-warning{ background-color:#ff9800;}
+.but-warning:hover{ background-color:#e68a00;}
+
+.but-danger{ background-color:#f44336;}
+.but-danger:hover{ background-color:#da190b;}
+
+.circle-outline{ width:40px; height:40px;}
+.circle-outline a {display: inline-block; width:40px; height:40px; border-radius: 50%;}
+.circle-outline a:hover .left, .circle-outline a:hover .top, .circle-outline a:hover .bottom, .circle-outline a:hover .right{border: 2px solid #008D96; background:#008D96;}
+.circle-outline a:hover .left:after, .circle-outline a:hover .top:after, .circle-outline a:hover .bottom:after, .circle-outline a:hover .right:after {border-top: 2px solid #ffffff; border-right: 2px solid #ffffff;}
+
+.circle-outline .left {display: inline-block; width: 40px; height: 40px; border: 1px solid #008D96; border-radius: 50%; margin-right: 1.5em;}
+.circle-outline .left:after {content: ''; display: inline-block; margin:16px 14px 14px 16px; width: 8.39px; height: 8px; border-top: 2px solid #008D96; border-right: 2px solid #008D96; -moz-transform: rotate(-135deg); -webkit-transform: rotate(-135deg); transform: rotate(-135deg);}
+
+.circle-outline .right {display: inline-block; width: 40px; height: 40px; border: 1px solid #008D96; border-radius: 50%; margin-right: 1.5em;}
+.circle-outline .right:after {content: ''; display: inline-block; margin:16px 16px 14px 14px; width: 8px; height: 8px; border-top: 2px solid #008D96; border-right: 2px solid #008D96; -moz-transform: rotate(45deg); -webkit-transform: rotate(45deg); transform: rotate(45deg);}
+.circle-outline .disabled{ cursor:not-allowed; box-shadow:none; opacity:0.5;}
+
+.text-primary{ width:auto; height:auto; float:left; display: inline-block; vertical-align: middle; padding:0px; margin:26px 24px 0; line-height:0; font-weight:normal; text-decoration:underline;}
+.text-primary:hover{ font-weight:500; text-decoration:underline; }
+.text-primary .disabled{ cursor:not-allowed; font-weight:normal; text-decoration:underline; opacity:0.5;}
+/* ------ Button CSS End ------ */
+/* ------ SVG Image CSS Start ------ */
+.svg-white path {fill: #FFFFFF!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+.svg-gray path {fill: #595959!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+.svg-light-gray path {fill: #BEBEBE!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+.svg-blue path {fill: #1f66be!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+.svg-yellow path {fill: #e3cc0a!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+.svg-red path {fill: #e41510!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+.svg-green path {fill: #13820a!important; image-rendering: crisp-edges!important; image-rendering: -moz-crisp-edges; -ms-interpolation-mode: bicubic; image-rendering: auto;}
+/* ------ SVG Image CSS End ------ */
+/* ------ Form Components CSS Start ------ */
+.section-container{ width:100%; height:64px; float:left; padding:0 0 0 0; margin:0 0 24px 0;  border-radius:12px; box-shadow:0 4px 8px 0 rgba(0,0,0,0.08);}
+.section-container h4{ width:auto; float:left; color:#FFFFFF; margin: 18px 0 16px 0; cursor:pointer;}
+.section-container .icon-Arrowright::before{ float:left; margin: 2px 24px 16px 0; font-size:38px; color:#FFFFFF;}
+.section-container .icon-Arrowdown::before{ float:left; margin: 2px 24px 16px 0; font-size:38px; color:#FFFFFF;}
+.section-container p{width:auto; float:right; color:#FFFFFF; margin:20px 65px 18px 0; font-size:20px;}
+.section-container .icon-Success::before, .icon-Warning::before{ float:right; margin: 4px -48px 16px 0; font-size:48px; color:#FFFFFF;}
+.default{ background:#BEBEBE;}
+.complete{ background:#1DB96F;}
+.error{ background:#DE4249;}
+.active{ background:#008D96;}
+.expand{ border-radius:12px 12px 0 0; box-shadow:none; margin:0px;}
+/* ------ Form Components CSS Ends ------ */
+/* ------ Dashboard Components CSS Start ------ */
+.tool-bar{ width:100%; height:auto; float:left; border-top:1px solid #EAEAEA; border-bottom:1px solid #EAEAEA;}
+.tool-bar:hover, .tool-bar:hover a{border-top:1px solid #008D96; border-bottom:1px solid #008D96; color:#008D96;}
+.tool-bar a{ color:#2B2B2B; font-size:16px; margin:9.33px 9.34px 9.34px 9.33px;}
+.tool-bar a img{ width:13.33px; height:19.33px; margin:0px 0px -4px 9.33px;}
+.tool-bar a span{ float:left; color:#008D96; margin: 0 0 0 12.62px;}
+
+.widget-container{ width:326px; height:auto; float:left; border-radius:12px; margin:0 15px 24px 0; background:#FFFFFF; box-shadow:0 4px 8px 0 rgba(0,0,0,0.08);}
+.widget-container:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.16), 0 4px 8px 0 rgba(0,0,0,0.08); 
+-webkit-transition-delay: .2s; -moz-transition-delay: .2s; -ms-transition-delay: .2s; -o-transition-delay: .2s; transition-delay: .2s;}
+.last{ margin-right:0px!important;}
+.widget-container .widget-header{ width:294px; height:252px; padding:16px 16px 12px 16px;}
+.widget-header .title{ font-size:18px; font-weight:500;}
+.widget-container img.success{ width:20px; height:20px; margin:0 10px -4px 0; background:none;}
+.widget-container img.warning{ width:27.66px; height:28px; margin:0 0 0 5px; background:none;}
+.widget-container .calendar{ width:100%; height:auto; float:left;}
+.widget-container .img-container{ width:30%; float:left;}
+.widget-container .text-container{ width:70%; float:left;}
+.widget-container ul{ width:100%; float:left;}
+.widget-container ul li.circulars{ width:91%; height:auto; float:left; border-bottom:1px solid #EAEAEA; padding:0 9% 23px 0; margin:0 0 14px 0; background:url(../images/dashboard-team-img6.jpg) no-repeat right 12px;}
+.widget-container ul li.services{ width:91%; height:auto; float:left; border-bottom:1px solid #EAEAEA; padding:7px 9% 15px 0; margin:0 0 10px 0; background:url(../images/dashboard-team-img6.jpg) no-repeat right top; line-height:20px;}
+.widget-container ul .last{ border:none!important; margin:0px!important; padding-bottom:0!important;}
+.widget-container .widget-footer{ width:294px; height:40px; padding:10px 16px; border-radius:0 0 12px 12px; background-color:#fafafa;}
+.widget-container .widget-footer h4{ width:auto; float:left;}
+.widget-container .pagination{ width:100%; float:left; text-align:center;}
+.widget-container .pagination a{ width:16px; height:16px; display: inline-block; border-radius: 50%; background-color: rgba(0,141,150,0.32); margin:0px 4.35px;}
+.widget-container .pagination a:hover, .widget-container .pagination a.active{ background:#008D96;}
+/* ------ Dashboard Components CSS Ends ------ */
+/* ------ Spacing CSS Start ------ */
+.top-space-xxl{ margin-top:40px;}
+.top-space-xl{ margin-top:32px;}
+.top-space-lg{ margin-top:24px;}
+.top-space-md{ margin-top:16px;}
+.top-space-nm{ margin-top:12px;}
+.top-space-sm{ margin-top:8px;}
+.top-space-xs{ margin-top:4px;}
+
+.bot-space-xxl{ margin-bottom:40px;}
+.bot-space-xl{ margin-bottom:32px;}
+.bot-space-lg{ margin-bottom:24px;}
+.bot-space-md{ margin-bottom:16px;}
+.bot-space-nm{ margin-bottom:12px;}
+.bot-space-sm{ margin-bottom:8px;}
+.bot-space-xs{ margin-bottom:4px;}
+
+.left-space-xxl{ margin-left:40px;}
+.left-space-xl{ margin-left:32px;}
+.left-space-lg{ margin-left:24px;}
+.left-space-md{ margin-left:16px;}
+.left-space-nm{ margin-left:12px;}
+.left-space-sm{ margin-left:8px;}
+.left-space-xs{ margin-left:4px;}
+
+.right-space-xxl{ margin-right:40px;}
+.right-space-xl{ margin-right:32px;}
+.right-space-lg{ margin-right:24px;}
+.right-space-md{ margin-right:16px;}
+.right-space-nm{ margin-right:12px;}
+.right-space-sm{ margin-right:8px;}
+.right-space-xs{ margin-right:4px;}
+/* ------ Spacing CSS Start ------ */
+
+
+ 

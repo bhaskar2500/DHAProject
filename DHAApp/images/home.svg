@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Home</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M35.8679776,22.9512208 L23.9998229,12 L12.132082,22.9512208 C11.9649074,23.105834 11.9549762,23.366127 12.1105645,23.5326651 C12.2653251,23.6987921 12.5280871,23.7082498 12.6952617,23.5540478 L14.4824574,21.9047032 L14.4824574,23.2526343 L14.4824574,36 L21.1032334,36 L21.1032334,28.5983038 C21.1032334,27.0085839 22.4000779,25.7198664 23.9998229,25.7198664 C25.5995679,25.7198664 26.8964124,27.0085839 26.8964124,28.5983038 L26.8964124,36 L33.5171884,36 L33.5171884,23.2526343 L33.5171884,21.9047032 L35.3043841,23.5540478 C35.3838334,23.6276536 35.485214,23.6638396 35.5861808,23.6638396 C35.6974926,23.6638396 35.8079768,23.6198407 35.8890813,23.5326651 C36.0450834,23.366127 36.0351522,23.105834 35.8679776,22.9512208 Z" id="path-1"></path>
+    </defs>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-228.000000, -432.000000)">
+        <g id="Navigation" transform="translate(0.000000, 308.000000)">
+            <g id="Glyphs/Home" transform="translate(216.000000, 112.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Home" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="⮑-Palette" mask="url(#mask-2)" fill="#2B2B2B">
+                    <rect id="Color" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

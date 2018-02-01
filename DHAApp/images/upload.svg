@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.324808,28.7058824 L21.324808,20.6844805 L17.1965812,20.6844805 L24.0769447,14 L30.957265,20.6844805 L26.8001595,20.6844805 L26.8290815,28.7058824 L21.324808,28.7058824 Z M29.4615738,28.7058824 L32.1538462,28.7058824 L32.1538462,34 L16,34 L16,28.7058824 L18.6923148,28.7058824 L18.6923148,31.3529412 L29.4615738,31.3529412 L29.4615738,28.7058824 Z" id="path-1"></path>
+    </defs>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-440.000000, -634.000000)">
+        <g id="Fields" transform="translate(0.000000, 508.000000)">
+            <g id="Glyphs/Upload" transform="translate(424.000000, 112.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Upload" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="⮑-Palette" mask="url(#mask-2)" fill="#2B2B2B">
+                    <rect id="Color" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

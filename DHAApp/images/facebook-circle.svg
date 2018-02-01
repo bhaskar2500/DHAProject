@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Facebook Circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,12 C17.3832273,12 12,17.3832273 12,24 C12,30.6162894 17.3832273,36 24,36 C30.6162894,36 36,30.6162894 36,24 C36,17.3832273 30.6172561,12 24,12 Z M26.9842907,24.4224603 L25.0319826,24.4224603 C25.0319826,27.5416096 25.0319826,31.3809716 25.0319826,31.3809716 L22.1390478,31.3809716 C22.1390478,31.3809716 22.1390478,27.5788286 22.1390478,24.4224603 L20.7638766,24.4224603 L20.7638766,21.9631032 L22.1390478,21.9631032 L22.1390478,20.3723516 C22.1390478,19.2330621 22.6804157,17.4528317 25.0585676,17.4528317 L27.2022879,17.4610489 L27.2022879,19.8483848 C27.2022879,19.8483848 25.8996214,19.8483848 25.6463385,19.8483848 C25.3930557,19.8483848 25.0329493,19.9750262 25.0329493,20.5183276 L25.0329493,21.9635866 L27.2370901,21.9635866 L26.9842907,24.4224603 Z" id="path-1"></path>
+    </defs>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-748.000000, -1448.000000)">
+        <g id="Social-Media" transform="translate(0.000000, 1308.000000)">
+            <g id="Glyphs/Facebook-Circle" transform="translate(736.000000, 128.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Facebook-Circle" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="⮑-Palette" mask="url(#mask-2)" fill="#2B2B2B">
+                    <rect id="Color" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

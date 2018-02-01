@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,36 C17.372583,36 12,30.627417 12,24 C12,17.372583 17.372583,12 24,12 C30.627417,12 36,17.372583 36,24 C36,30.627417 30.627417,36 24,36 Z M22,17 L22,19.2857143 L23,25 L25,25 L26,19.2857143 L26,17 L22,17 Z M24,31 C25.1045695,31 26,30.1045695 26,29 C26,27.8954305 25.1045695,27 24,27 C22.8954305,27 22,27.8954305 22,29 C22,30.1045695 22.8954305,31 24,31 Z" id="path-1"></path>
+    </defs>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-436.000000, -232.000000)">
+        <g id="Indication" transform="translate(216.000000, 140.000000)">
+            <g id="Glyphs/Warning" transform="translate(208.000000, 80.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Warning" fill="#000000" xlink:href="#path-1"></use>
+                <g id="⮑-Palette" mask="url(#mask-2)" fill="#2B2B2B">
+                    <rect id="Color" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

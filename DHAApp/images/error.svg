@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Error</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,12 C30.6,12 36,17.4 36,24 C36,30.6 30.6,36 24,36 C17.4,36 12,30.6 12,24 C12,17.4 17.4,12 24,12 Z M29.1,27.8 L25.4,24 L29.4,20.2 L27.9,18.7 L24,22.5 L20.2,18.7 L18.7,20.2 L22.4,24 L18.6,27.8 L20.1,29.3 L23.9,25.5 L27.6,29.3 L29.1,27.8 Z" id="path-1"></path>
+    </defs>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-540.000000, -232.000000)">
+        <g id="Indication" transform="translate(216.000000, 140.000000)">
+            <g id="Glyphs/Error" transform="translate(312.000000, 80.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Cross" fill="#000000" xlink:href="#path-1"></use>
+                <g id="⮑-Palette" mask="url(#mask-2)" fill="#2B2B2B">
+                    <rect id="Color" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

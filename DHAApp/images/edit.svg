@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M33.8356225,17.9468112 L31.9773512,19.8050701 L28.1946793,16.0226843 L26.7596614,17.4576927 L30.5423332,21.2403394 L21.2644113,30.5174169 L17.4820003,26.7354224 L16.0469823,28.1704308 L19.8293933,31.9528166 L18.904888,32.8773157 L18.8872796,32.8597074 C18.7847597,33.0284859 18.618067,33.1516133 18.4200705,33.1955688 L14.8927854,33.9820713 C14.8399603,33.9939406 14.7862221,33.9996796 14.7331361,33.9996796 C14.5406178,33.9996796 14.3535776,33.9238988 14.2149279,33.7848587 C14.0370181,33.6076022 13.9629324,33.351565 14.0177141,33.1062231 L14.8038305,29.580005 C14.8481775,29.3821403 14.9715667,29.2150574 15.1400854,29.112799 L15.1222162,29.0949299 L30.0528202,14.1637733 C30.2716859,13.9453003 30.6272448,13.9453003 30.8461104,14.1644254 L33.8358833,17.1535262 C34.054749,17.3723905 34.054749,17.727947 33.8356225,17.9468112 Z" id="path-1"></path>
+    </defs>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-230.000000, -834.000000)">
+        <g id="Actions" transform="translate(0.000000, 708.000000)">
+            <g id="Glyphs/Edit" transform="translate(216.000000, 112.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pencil" fill="#000000" xlink:href="#path-1"></use>
+                <g id="⮑-Palette" mask="url(#mask-2)" fill="#2B2B2B">
+                    <rect id="Color" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
